@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="buttonCalculate">Calculate</string>
+    <string name="BmiText">Your BMI is </string>
+    <string name="Underweight"> You are underweight</string>
+    <string name="littleUnderweight"> You are a little underweight</string>
+    <string name="normal"> Your weight is normal</string>
+    <string name="overweight"> You are overweight</string>
+    <string name="hintWeight">Enter your weight in kg</string>
+    <string name="hintHeight">Enter your height in cm</string>
+    <string name="titleText">IT IS BMI CALCULATOR</string>
+    <string name="labelAgeText">Select Age in years</string>
+    <string name="emptyField">Empty field not allowed</string>
+</resources>
